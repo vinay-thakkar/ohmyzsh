@@ -1,5 +1,5 @@
-# custom files
-custom/
+# custom files [Not ignoring as will be pushing the custom to FORKed url - git@github.com:vinay-thakkar/ohmyzsh.git]
+# custom/
 
 # temp files directories
 cache/

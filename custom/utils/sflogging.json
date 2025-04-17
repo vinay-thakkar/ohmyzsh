@@ -1,0 +1,19 @@
+{
+    "stateMachineArn": "",
+    "definition": "",
+    "roleArn": "",
+    "loggingConfiguration": {
+        "level": "ALL",
+        "includeExecutionData": true,
+        "destinations": [
+            {
+                "cloudWatchLogsLogGroup": {
+                    "logGroupArn": ""
+                }
+            }
+        ]
+    },
+    "tracingConfiguration": {
+        "enabled": false
+    }
+}

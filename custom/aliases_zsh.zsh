@@ -1,0 +1,5 @@
+alias aliases='subl ~/.oh-my-zsh/custom/aliases.zsh'
+alias zshaliases='subl ~/.oh-my-zsh/custom/aliases.zsh'
+alias zshconfig='subl ~/.zshrc'
+alias zshfavlist='subl ~/.zsh_favlist'
+alias ohmyzsh='subl ~/.oh-my-zsh'
